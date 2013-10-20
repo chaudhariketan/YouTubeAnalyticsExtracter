@@ -1,0 +1,43 @@
+c:\users\kchaudhari\documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kchaudhari\documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.Analytics.resources
+c:\users\kchaudhari\documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.Properties.Resources.resources
+c:\users\kchaudhari\documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kchaudhari\documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\YouTubeAnalyticsExtracter.exe.config
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\YouTubeAnalyticsExtracter.exe
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\YouTubeAnalyticsExtracter.pdb
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\DotNetOpenAuth.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Google.Apis.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\System.Net.Http.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\System.Runtime.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\System.Threading.Tasks.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\bin\Debug\Zlib.Portable.dll
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.exe
+C:\Users\kchaudhari\Documents\visual studio 2010\Projects\YouTubeAnalyticsExtracter\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.pdb
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\YouTubeAnalyticsExtracter.exe.config
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.exe
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.pdb
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\YouTubeAnalyticsExtracter.exe
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\YouTubeAnalyticsExtracter.pdb
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\DotNetOpenAuth.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\Google.Apis.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\System.Net.Http.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\System.Runtime.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\System.Threading.Tasks.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\bin\Debug\Zlib.Portable.dll
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.Analytics.resources
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\YouTubeAnalyticsExtracter.Properties.Resources.resources
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kchaudhari\Desktop\YouTube\YouTubeAnalyticsExtracter Production\YouTubeAnalyticsExtracter\obj\x86\Debug\GenerateResource.write.1.tlog
